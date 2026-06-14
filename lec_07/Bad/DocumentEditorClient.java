@@ -8,6 +8,8 @@ class DocumentEditor {
     private List<String> documentElements;
     private String renderedDocument;
 
+
+    
     public DocumentEditor() {
         documentElements = new ArrayList<>();
         renderedDocument = "";
